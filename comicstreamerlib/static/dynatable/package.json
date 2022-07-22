@@ -22,7 +22,7 @@
     }
   ],
   "dependencies": {
-    "jquery": "3.5.0"
+    "jquery": "3.6.0"
   },
   "bugs": {
     "mail": "support@alfajango.com",
