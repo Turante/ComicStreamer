@@ -1,6 +1,6 @@
 argh==0.26.2
 backports.ssl-match-hostname==3.4.0.2
-certifi==2020.6.20
+certifi==2023.7.22
 configobj==5.0.6
 natsort==7.0.1
 pathtools==0.1.2
